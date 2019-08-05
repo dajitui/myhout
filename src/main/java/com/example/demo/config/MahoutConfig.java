@@ -20,7 +20,7 @@ public class MahoutConfig {
         MysqlDataSource dataSource = new MysqlDataSource();
         dataSource.setServerName("127.0.0.1");
         dataSource.setUser("root");
-        dataSource.setPassword("ys123456");
+        dataSource.setPassword("xxx");
         dataSource.setDatabaseName("test");
         try {
             dataSource.setServerTimezone("UTC");
